@@ -4,9 +4,9 @@ import time
 from tqdm import tqdm
 
 # Add your credentials here
-api_id =   # Replace with your actual API ID
-api_hash = ''  # Replace with your actual API Hash
-phone_number = ''  # Your phone number linked to the Telegram account
+api_id =   7795661987
+api_hash = 'AAEKIk-GbdeRcdyhh7NN347sQWiZ5XRJtjs'  
+phone_number = '+17423892588'  
 
 # Source and destination channel usernames (private channels)
 source_channel = ''  # Replace with your source private channel or public channel username with @
