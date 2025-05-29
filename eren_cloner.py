@@ -4,13 +4,13 @@ import time
 from tqdm import tqdm
 
 # Add your credentials here
-api_id =   7795661987
+api_id = '7795661987'
 api_hash = 'AAEKIk-GbdeRcdyhh7NN347sQWiZ5XRJtjs'  
 phone_number = '+17423892588'  
 
 # Source and destination channel usernames (private channels)
-source_channel = ''  # Replace with your source private channel or public channel username with @
-destination_channel = ''  # Replace with your destination private channel or public channel username with @
+source_channel = '@ MP PHYSICAL'  # Replace with your source private channel or public channel username with @
+destination_channel = '@orthobets'  # Replace with your destination private channel or public channel username with @
 
 # Initialize the client
 eren = Client("user_session", api_id, api_hash, phone_number=phone_number)
